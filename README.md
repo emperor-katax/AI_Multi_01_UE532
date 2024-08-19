@@ -12,7 +12,7 @@ Home: www.kataxwork.com<br>
 This application:
 
 > AI multiplayer <br> 
-> Using 4 different behaviours <br> 
+> Using 3 different behaviours <br> 
 > Replicate animation of crowd in network<br> 
 > develop multiplayer logic by replication of single player`s events/data<br> 
 
